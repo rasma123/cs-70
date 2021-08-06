@@ -32,3 +32,23 @@ input
 {
     margin-top: 10px;
 }
+.book
+{
+cursor: pointer;
+}
+.book hr
+{
+margin-bottom: 10px;
+}
+.modal-content
+{
+    margin-top: 10px;
+}
+.img-modal
+{
+    display: inline-block;
+}
+.p_modal
+{
+    margin-top: 10px;
+}
